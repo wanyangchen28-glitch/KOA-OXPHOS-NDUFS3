@@ -1,0 +1,7 @@
+GSM	sample_id	modality	group	donor_id	source_tissue
+GSM6685302	sc_healthy_1	scRNA	Control	sc_healthy_1	IPFP/synovium
+GSM6685303	sc_healthy_2	scRNA	Control	sc_healthy_2	IPFP/synovium
+GSM6685304	sc_healthy_3	scRNA	Control	sc_healthy_3	IPFP/synovium
+GSM6685305	sc_OA_1	scRNA	OA	sc_OA_1	IPFP/synovium
+GSM6685306	sc_OA_2	scRNA	OA	sc_OA_2	IPFP/synovium
+GSM6685307	sc_OA_3	scRNA	OA	sc_OA_3	IPFP/synovium
